@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+.img-1 {
+  width: 500px;
+}
+.img-2 {
+  width: 200px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+div.container > div.stay-place > input {
+  display: block;
+}
+div.container > div.Amsterdam-place > div.Gabs-place {
+  display: flex;
+}
+.Amsterdam-place {
+  margin-left: 100px;
+}
+.logos {
+  margin-left: 100px;
+}
+.main-img {
+  display: block;
+  margin: auto;
+}
+.p-color {
+  color: #ff5d5d;
+  font-weight: bold;
+}
